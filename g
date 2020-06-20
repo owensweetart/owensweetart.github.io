@@ -1,1 +1,0 @@
-<p>Over the next few videos, we are going to be coding together to make sure what we learn "sticks". I have attached the starter files for you so you can code along with me as we learn CSS. Along the way, you can experiment and try different things on your own as well!</p>
